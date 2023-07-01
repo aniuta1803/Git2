@@ -5,6 +5,7 @@ public class classaaa {
         System.out.println("second branch");
         System.out.println("this change is in branch 3");
         System.out.println("this change is from master");
+        //this change is from master after  merging remote branches
 
     }
 }
